@@ -1,0 +1,34 @@
+# Multi-Tool AI Agent - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core Framework
+streamlit==1.28.0
+langchain==0.1.0
+langchain-community==0.0.10
+
+# LLM
+ollama==0.1.6
+
+# Vector Database & Embeddings
+chromadb==0.4.18
+sentence-transformers==2.2.2
+
+# Web Search Tools
+duckduckgo-search==4.1.1
+
+# Wikipedia Tool
+wikipedia==1.4.0
+
+# ArXiv Tool
+arxiv==2.0.0
+
+# Document Processing
+pypdf2==3.0.1
+python-docx==1.1.0
+
+# Database
+sqlalchemy==2.0.23
+
+# Utilities
+requests==2.31.0
+python-dateutil==2.8.2
